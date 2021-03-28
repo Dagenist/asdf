@@ -157,7 +157,7 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
     bottom: 0;
 }
 .theme-dark .membersGroup-v9BXpm::after {
-    background-image: linear-gradient(to right, transparent, rgba(255,255,255,0.1), rgba(255,255,255,0.5),rgba(255,255,255,0.1),transparent);
+    background-image: url('https://images.hdqwalls.com/wallpapers/aurora-borealis-town-5k-77.jpg');
 }
 .botTagRegular-2HEhHi {
     background-color: #a4a4a4;
